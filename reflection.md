@@ -26,10 +26,10 @@ Content for reflection 2 goes here.
 
 ### Reflection 1
 
-Content for reflection 1 goes here.
+The crash course was instrumental in helping me learn how to use  the GUI interface on Visual Studio Code in support of using the CLI.
 ### Reflection 2
 
-Content for reflection 2 goes here.
+The crash course also allowed me to learn how to work with issues and naming practices for branches commits and projects. While doing the aforementioned tasks I was also able to learn how to handle merge conflicts better.
 
 
 ## Philip's Reflection: 
