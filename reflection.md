@@ -36,10 +36,11 @@ The crash course also allowed me to learn how to work with issues and naming pra
 
 ### Reflection 1
 
-Content for reflection 1 goes here.
+The git crash course has helped me familiarize in using the command line as well as different features such as labels and using conventional Commit Messages.
+
 ### Reflection 2
 
-Content for reflection 2 goes here.
+It also helped me in improving my github collaboration skills through reviewing each others code and accepting teammates pull requests.
 
 
 ## Raqiba's Reflection: 
