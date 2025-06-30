@@ -55,7 +55,7 @@ Content for reflection 2 goes here.
 
 ### Reflection 1
 
-Content for reflection 1 goes here.
+I learned the importance of version control in project management.
 ### Reflection 2
 
-Content for reflection 2 goes here.
+I gained new skills in merge conflict resolution using git.
