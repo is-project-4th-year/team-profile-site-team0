@@ -15,7 +15,7 @@ This is a documentation of the reflections and lessons learned by the team's mem
 ## Eugene's Reflection: 
 
 ### Reflection 1
-This crash course was crucial for me to learn all the different ways that i could use github to manage my projects by breaking them down into managable tasks using issues and milestones.
+This crash course was crucial for me to learn all the different ways that i could use github to manage my projects by breaking them down into managable tasks using issues , milestones and projects.
 ### Reflection 2
 Learnt quite a lot about version control and keeping my code seperate until i fully test it out before commiting to any kind of change.
 
