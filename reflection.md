@@ -40,6 +40,9 @@ The git crash course has helped me familiarize in using the command line as well
 
 It also helped me in improving my github collaboration skills through reviewing each others code and accepting teammates pull requests.
 
+### Reflection 3
+
+I have learned how to rebase and its purpose.
 
 ## Raqiba's Reflection: 
 
