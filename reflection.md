@@ -28,7 +28,9 @@ The crash course was instrumental in helping me learn how to use  the GUI interf
 ### Reflection 2
 
 The crash course also allowed me to learn how to work with issues and naming practices for branches commits and projects. While doing the aforementioned tasks I was also able to learn how to handle merge conflicts better.
+### Reflection 3
 
+The crash course also allowed me to learn about the difference between a basic git merge and git rebase.
 
 ## Philip's Reflection: 
 
