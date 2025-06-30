@@ -64,3 +64,17 @@ I learned the importance of version control in project management.
 ### Reflection 2
 
 I gained new skills in merge conflict resolution using git.
+
+
+## Quote of The Day
+
+### Salim's Quote
+
+### Louis's Quote
+
+### Philip's Quote
+
+### Eugene's Quote
+
+### Raqiba's Quote
+
